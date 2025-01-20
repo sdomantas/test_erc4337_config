@@ -32,14 +32,14 @@
       "entrypoint_address": "0x0000000071727de22e5e9d8baf0edac6f37da032",
       "entrypoint_function_name": "handleOps",
       "entrypoint_function_abi": "function handleOps((address,uint256,bytes,bytes,bytes32,uint256,bytes32,bytes,bytes)[], address arg1)",
-      "scw_function_name": "execute_testuoju",
+      "scw_function_name": "execute_testuoju_1",
       "scw_function_abi": "function execute(address,uint256,bytes)"
     },
     {
       "entrypoint_address": "0x0000000071727de22e5e9d8baf0edac6f37da032",
       "entrypoint_function_name": "handleOps",
       "entrypoint_function_abi": "function handleOps((address,uint256,bytes,bytes,bytes32,uint256,bytes32,bytes,bytes)[], address arg1)",
-      "scw_function_name": "execute_newest",
+      "scw_function_name": "execute_newest_1",
       "scw_function_abi": "function execute(address,uint256,bytes)"
     },
     {
